@@ -1,0 +1,8 @@
+{
+  "delete": {
+    "status": {
+      "id": 123,
+      "user_id": 3
+    }
+  }
+}
